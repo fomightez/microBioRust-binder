@@ -1,5 +1,8 @@
 #!/bin/bash
 
- build and install the Rust extension in-place
+# Build the Rust extension module and install the package into the conda
+# environment in development mode. `conda run -n notebook` is needed because
+# postBuild runs without the environment activated, so maturin can't find it
+# otherwise.
 cd microbiorust-py
 conda run -n notebook maturin develop

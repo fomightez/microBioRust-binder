@@ -7,7 +7,7 @@ Want choices in the interface of launched session?
 JupyterLab interface: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/microBioRust-binder/main?urlpath=%2Flab%2Ftree%2Findex.ipynb)  
 
 Jupyter Notebook 7+:  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/microBioRust-binder/main?urlpath=%2Ftree%2Findex.ipynb)
-JupyterLab interface (simple mode): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/microBioRust-binder/HEAD?urlpath=%2Fdoc%2Ftree%2Findex.ipynb)  
+JupyterLab interface ('Simple' mode): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/microBioRust-binder/HEAD?urlpath=%2Fdoc%2Ftree%2Findex.ipynb)  
 
 ------
 
