@@ -1,3 +1,5 @@
 #!/bin/bash
 
-# coming soon possibly
+# build and install the Rust extension in-place
+cd microbiorust-py
+maturin develop
