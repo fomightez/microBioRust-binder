@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# HOPING TO MOVE THE SET UP STEP HERE LATER BUT TRYING TO DETERMINE WHY FAILS FOR NOW...
 # build and install the Rust extension in-place
-cd microbiorust-py
-maturin develop
+#cd microbiorust-py
+#maturin develop
