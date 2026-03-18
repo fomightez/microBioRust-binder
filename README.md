@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/microBioRust-binder/HEAD?urlpath=%2Fdoc%2Ftree%2Findex.ipynb)
+
 <img src="assets/MICROBIO B.svg#gh-light-mode-only" alt="microBioRust logo light mode" width="200">
 <img src="assets/BIO W.png#gh-dark-mode-only" alt="microBioRust logo dark mode" width="200">
 

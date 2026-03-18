@@ -1,0 +1,10 @@
+name: microBioRust-binderized
+channels:
+  - conda-forge
+
+dependencies:
+  - rust
+  - maturin
+  - pip
+
+  
