@@ -1,0 +1,13 @@
+name: microBioRust-binderized
+channels:
+  - conda-forge
+
+dependencies:
+  - rust
+  - maturin
+  - pytest
+  - pip
+  - pip:
+    - microbiorust
+
+  
